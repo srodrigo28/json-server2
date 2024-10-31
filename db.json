@@ -5,5 +5,8 @@
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 }
   ],
-  "profile": { "name": "typicode" }
+  "profile": { "name": "typicode" },
+  "products": [
+    { "id": 1, "name": "jaqueta srarefe", "description": "condições do produto", "category": "jaqueta", "status": "semi-novo", "image": "", "amount": 2, "price": 2000 }
+  ]
 }
